@@ -1,4 +1,5 @@
 ### Hi there 👋
+[Welcome to my Blog]([SunggilCho.github.io](https://github.com/SunggilCho/SunggilCho.github.io))
 
 <!--
 **SunggilCho/SunggilCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
